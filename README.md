@@ -1,4 +1,8 @@
-<h1 align="center">💫 Sobre mim:<br>Opa, eu sou o Enzo Gabriel e sou estudante, tentando entrar no mundo da programação e me aventurando no universo da ciência de dados.</h1>
+<h1 align="center">💫 Sobre mim:</h1>
+
+###
+
+<h3 align="center">Opa, eu sou o Enzo Gabriel e sou estudante, tentando entrar no mundo da programação e me aventurando no universo da ciência de dados.</h3>
 
 ###
 
@@ -6,7 +10,7 @@
 
 ###
 
-<h2 align="center">🌐 Sociais:</h2>
+<h1 align="center">🌐 Sociais:</h1>
 
 ###
 
@@ -23,7 +27,7 @@
 
 ###
 
-<h2 align="center">💻 Linguagens que estou aprendendo ou com as quais trabalho:</h2>
+<h1 align="center">💻 Linguagens que estou aprendendo ou com as quais trabalho:</h1>
 
 ###
 
@@ -52,7 +56,7 @@
 
 ###
 
-<h2 align="center">Total de visualizações:</h2>
+<h1 align="center">Total de visualizações:</h1>
 
 ###
 
