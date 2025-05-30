@@ -1,8 +1,12 @@
-<p align="center">💫 Sobre mim:<br>Opa, eu sou o Enzo Gabriel e sou estudante, tentando entrar no mundo da programação e me aventurando no universo da ciência de dados.</p>
+<h1 align="center">💫 Sobre mim:<br>Opa, eu sou o Enzo Gabriel e sou estudante, tentando entrar no mundo da programação e me aventurando no universo da ciência de dados.</h1>
 
 ###
 
-<p align="center">🌐 Sociais:</p>
+<p align="left"></p>
+
+###
+
+<h2 align="center">🌐 Sociais:</h2>
 
 ###
 
@@ -15,11 +19,15 @@
 
 ###
 
-<p align="left">💻 Linguagens que estou aprendendo ou com as quais trabalho:</p>
+<p align="left"></p>
 
 ###
 
-<div align="left">
+<h2 align="center">💻 Linguagens que estou aprendendo ou com as quais trabalho:</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -29,10 +37,22 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EnzoBond&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnzoBond&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="center">Total de visualizações:</h2>
 
 ###
 
